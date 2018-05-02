@@ -1,0 +1,12 @@
+void printHeap(int arr[],int arrSize){
+    for(int x=arrSize-1;x>=0;x--){
+        cout<<arr[x]<<" ";
+    }
+    cout<<endl;
+}
+int parent(int i){
+    return((i-1)/2);
+}
+void addHeap(int y,int arr[],int arrSize,int heapSize){
+    arr[]
+}
